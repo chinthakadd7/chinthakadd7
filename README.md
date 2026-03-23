@@ -30,7 +30,7 @@ I bridge the gap between complex Machine Learning models and scalable production
 * Implemented a **Jenkins-based CI/CD pipeline** to automate testing and deployment to **AWS EC2**.
 * Designed for high availability using Docker orchestration.
 
-#### 👁️ [Hand Gesture-Controlled Mouse](https://github.com/chinthakadd7/Hand-Gesture-Mouse)
+#### 👁️ [Hand Gesture-Controlled Mouse](https://github.com/chinthakadd7/HGP.git)
 *Real-time Human-Computer Interaction (HCI) using Computer Vision.*
 * Utilized **MediaPipe** and **OpenCV** to map skeletal hand tracking to system-level mouse events.
 * Optimized for low-latency performance on standard consumer hardware.
