@@ -1,75 +1,53 @@
-## Hi there 👋
-🎓 Computer Engineering Undergraduate
-💡 Passionate about Machine Learning, Data Science, and Full-Stack Development
-🚀 Building real-world, AI-powered applications
-🎯 Actively seeking Machine Learning / Software Engineering Internships
+# Chinthaka Dissanayake 👋
+**Computer Engineering Undergraduate | Machine Learning & Full-Stack Development**
 
-## About Me
-💻 Strong interest in Machine Learning and AI-driven systems
-🌐 Experienced in Full-Stack Development (React + FastAPI)
-☁️ Exploring Cloud Computing (AWS) and scalable architectures
-📊 Enjoy working on data-driven applications and real-world problems
-📚 Continuously learning and improving my technical skills
-🛠️ Tech Stack
+I bridge the gap between complex Machine Learning models and scalable production environments. Currently focusing on **AutoML**, **Edge AI**,**Distributed Systems**, and **Cloud Infrastructure** to build intelligent, high-performance applications.
 
-## Languages
+---
 
-Python, C++, SQL
+### 🛠️ Technical Ecosystem
 
-## Frameworks & Libraries
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, SQL |
+| **AI & Data Science** | H2O.ai, Scikit-learn, TensorFlow, Pandas, OpenCV, SHAP |
+| **Backend & Web** | FastAPI, React, Flutter, Firebase |
+| **DevOps & Cloud** | AWS (EC2, S3), Docker, Jenkins (CI/CD), Git, Linux |
 
-React, FastAPI
-Scikit-learn, Pandas, NumPy, OpenCV
+---
 
-## Tools & Technologies
+### 🚀 Featured Projects
 
-Git, Docker, Linux, Postman, Jenkins
-Jupyter Notebook, Google Colab
+#### 🛡️ [Financial Fraud Sentinel](https://github.com/chinthakadd7/Financial-Fraud-Sentinel)
+*An end-to-end fraud detection ecosystem focused on model transparency and deployment scalability.*
+* **Core:** Developed using **H2O AutoML** for high-accuracy classification.
+* **Infrastructure:** Containerized with **Docker** and deployed via **FastAPI** for real-time inference.
+* **Explainability:** Integrated **SHAP** values to provide human-readable reasoning for every flagged transaction.
+* **Tech:** Python, H2O Wave, AWS, Docker.
 
-## Cloud & Platforms
+#### ⚡ [Smart Bookmark Manager](https://github.com/chinthakadd7/Smart-Bookmark-Manager)
+*A full-stack productivity tool with a focus on automated delivery.*
+* Implemented a **Jenkins-based CI/CD pipeline** to automate testing and deployment to **AWS EC2**.
+* Designed for high availability using Docker orchestration.
 
-AWS
-## Projects
-🔹 Financial Fraud Sentinel
+#### 👁️ [Hand Gesture-Controlled Mouse](https://github.com/chinthakadd7/Hand-Gesture-Mouse)
+*Real-time Human-Computer Interaction (HCI) using Computer Vision.*
+* Utilized **MediaPipe** and **OpenCV** to map skeletal hand tracking to system-level mouse events.
+* Optimized for low-latency performance on standard consumer hardware.
 
-End-to-end fraud detection system with real-time prediction API and interactive dashboard.
-Built using FastAPI, H2O, and Docker with SHAP-based model explainability.
-Tech: Python, FastAPI, H2O, Docker
+---
 
-🔹 Hand Gesture–Controlled Mouse 
+### 📖 Current Research & Focus
+* **Distributed Systems:** Exploring fault-tolerant architectures, CAP theorem, and load balancing.
+* **MLOps:** Automating the ML lifecycle through CI/CD, model monitoring, and retraining.
 
-Real-time hand gesture system to control mouse actions using computer vision.
-Implemented gesture tracking and mapped actions like click, drag, and scroll.
-Tech: Python, OpenCV, MediaPipe, PyAutoGUI
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=chinthakadd7&show_icons=true&theme=dark&hide_border=true" alt="Chinthaka's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinthakadd7&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
-🔹 Productivity Mobile App 
-
-Cross-platform productivity app with task management and real-time sync.
-Integrated notifications and designed a clean, user-friendly interface.
-Tech: Flutter, Firebase, Cloud Firestore, FCM
-
-## What I'm Currently Working On
-Improving my Machine Learning fundamentals
-Building AI-powered full-stack applications
-Preparing for ML & SWE internships
-## Goals
-Gain hands-on industry experience through internships
-Contribute to impactful real-world projects
-Become a skilled Machine Learning Engineer / Software Engineer
-## Connect With Me
-LinkedIn: www.linkedin.com/in/chinthakadd
-Email: chinthakacdd@gmail.com
-<!--
-**chinthakadd7/chinthakadd7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+* 💼 [LinkedIn](https://www.linkedin.com/in/chinthakadd)
+* 📧 [chinthakacdd@gmail.com](mailto:chinthakacdd@gmail.com)
+* 📍 Sri Lanka
