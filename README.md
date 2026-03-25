@@ -25,7 +25,7 @@ I bridge the gap between complex Machine Learning models and scalable production
 * **Explainability:** Integrated **SHAP** values to provide human-readable reasoning for every flagged transaction.
 * **Tech:** Python, H2O Wave, AWS, Docker.
 
-#### ⚡ [Smart Bookmark Manager](https://github.com/chinthakadd7/Smart-Bookmark-Manager)
+#### ⚡ [Bookmark_Manager_CI-CD](https://github.com/chinthakadd7/Bookmark_Manager_CI-CD.git)
 *A full-stack productivity tool with a focus on automated delivery.*
 * Implemented a **Jenkins-based CI/CD pipeline** to automate testing and deployment to **AWS EC2**.
 * Designed for high availability using Docker orchestration.
