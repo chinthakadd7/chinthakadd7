@@ -23,7 +23,7 @@ I bridge the gap between complex Machine Learning models and scalable production
 * **Core:** Developed using **H2O AutoML** for high-accuracy classification.
 * **Infrastructure:** Containerized with **Docker** and deployed via **FastAPI** for real-time inference.
 * **Explainability:** Integrated **SHAP** values to provide human-readable reasoning for every flagged transaction.
-* **Tech:** Python, H2O Wave, AWS, Docker.
+* **Tech:** Python, H2O Wave, Docker.
 
 #### ⚡ [Bookmark_Manager_CI-CD](https://github.com/chinthakadd7/Bookmark_Manager_CI-CD.git)
 *A full-stack productivity tool with a focus on automated delivery.*
